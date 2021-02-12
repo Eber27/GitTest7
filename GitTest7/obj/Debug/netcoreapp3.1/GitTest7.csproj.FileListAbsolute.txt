@@ -1,0 +1,13 @@
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.exe
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.deps.json
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.runtimeconfig.json
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.runtimeconfig.dev.json
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.dll
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\bin\Debug\netcoreapp3.1\GitTest7.pdb
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.csprojAssemblyReference.cache
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.dll
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.pdb
+C:\Users\Johanna\Desktop\Repos\GitTest7\GitTest7\obj\Debug\netcoreapp3.1\GitTest7.genruntimeconfig.cache
